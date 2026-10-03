@@ -8,7 +8,7 @@ As vulnerabilidades do código, assim como quando gerada por humanos, vêm de fr
 
 Em estudo onde os participantes receberam a tarefa de elaborar funções de criptografia e descriptografia de mensagens, aqueles que interagiram com a inteligência artificial foram mais propensos à utilizar métodos triviais para encriptar as mensagens. No estudo[[1]](#referencias), 51% dos usuários do grupo experimental entregaram códigos classificados como inseguros, contra 14% do grupo controle.
 
-No entanto, além dos problemas presentes em código humano, os códigos gerados por IA estão sucetiveis à vulnerabilidades novas, como é a chamada "Alucinação de Pacotes", que se resume à invenção de dependências que não existem. Em estudo realizado com 2,23 milhões de pacotes gerados por IA, 19,7% eram alucinações[3](#referencias). Essa vulnerabilidade é explorável por usuários mal intencionados que podem criar e publicar os pacotes com arquivos maliciosos.
+  No entanto, além dos problemas presentes em código humano, os códigos gerados por IA estão sucetiveis à vulnerabilidades novas, como é a chamada "Alucinação de Pacotes", que se resume à invenção de dependências que não existem. Em estudo realizado com 2,23 milhões de pacotes gerados por IA, 19,7% eram alucinações[[3](#referencias). Essa vulnerabilidade é explorável por usuários mal intencionados que podem criar e publicar os pacotes com arquivos maliciosos.
 
 Também existe um fator psicológico semelhante à um Viés de Autoridade mas aplicado à IA. O estudo de Perry, N et al. aponta que, em todos os problemas propostos, quando os participantes foram questionados sobre a segurança do seu código, aqueles que utilizaram inteligência artificial estavam mais propensos à julgar o seu código como seguro quando não era, do que o grupo controle.
 
@@ -16,7 +16,7 @@ Também existe um fator psicológico semelhante à um Viés de Autoridade mas ap
 
 IAs são modelos estatísticos de linguagem baseados na predição de tokens. Ou seja, dada uma entratada, o modelo estatisticamente, baseado nos pesos utilizados no treinamento, faz a previsão de qual é o próximo melhor token até concluir a resposta. O que é diferente da ponderação realizada por um humano. 
 
-Os modelos de linguagem utilizados nos estudos referenciados já são defasados. Os mais recentes deles tendo sido lançados no final de 2023, como o GPT-4, e início de 2024, como Claude 3[3](#referencias).
+Os modelos de linguagem utilizados nos estudos referenciados já são defasados. Os mais recentes deles tendo sido lançados no final de 2023, como o GPT-4, e início de 2024, como Claude 3[[3]](#referencias).
 
 Usuários que questionam e roformulam os prompts estão mais propensos a desenvolverem códigos mais seguros[[1]](#referencias). 
 
