@@ -27,5 +27,3 @@ DOI: https://doi.org/10.1007/978-981-95-3537-8_9
 **The Rise of Slopsquatting: How AI Hallucinations Are Fueling a New Class of Supply Chain Attacks**
 
 URL: https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks
-
-
